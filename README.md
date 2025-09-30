@@ -1,6 +1,6 @@
-# electronics-store-power-BI-report
+# electronics store power BI report
 
-This is based on a project by Maven Anlytics.
+This is based on a project by Maven Anlytics
 
 ## Task
 - Present data regarding sales of electronic items at various electronics stores
