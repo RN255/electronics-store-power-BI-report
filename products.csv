@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Product_Category,Product_Cost,Product_Price
+1,Galaxy S22,Smartphone,£500.00,"£1,055.00"
+2,iPhone 14,Smartphone,£485.00,£999.00
+3,Pixel 7,Smartphone,£320.00,"£1,284.00"
+4,OnePlus 11,Smartphone,£247.00,£559.00
+5,Xiaomi 13,Smartphone,£743.00,"£1,437.00"
+6,MacBook Air,Laptop,£750.00,"£1,299.00"
+7,Dell XPS 13,Laptop,£400.00,£856.00
+8,HP Spectre,Laptop,£664.00,"£1,211.00"
+9,Lenovo ThinkPad,Laptop,£245.00,£956.00
+10,Asus ZenBook,Laptop,£516.00,£574.00
+11,iPad Pro,Tablet,£264.00,"£1,182.00"
+12,Galaxy Tab S8,Tablet,£380.00,£610.00
+13,Surface Pro 9,Tablet,£508.00,£799.00
+14,Lenovo Yoga Tab,Tablet,£435.00,"£1,075.00"
+15,Amazon Fire HD,Tablet,£239.00,£499.00
+16,AirPods Pro,Accessory,£7.00,£35.00
+17,Galaxy Buds,Accessory,£6.00,£19.99
+18,Sony WH-1000XM5,Accessory,£5.45,£17.99
+19,Logitech Mouse,Accessory,£5.00,£19.99
+20,Anker Charger,Accessory,£10.50,£25.00
+21,Apple Watch,Smartwatch,£157.00,£399.00
+22,Galaxy Watch,Smartwatch,£150.00,£349.00
+23,Fitbit Sense,Smartwatch,£200.00,£399.00
+24,Garmin Forerunner,Smartwatch,£67.99,£129.99
+25,Huawei Watch GT,Smartwatch,£203.00,£300.00
